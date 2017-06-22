@@ -1,0 +1,176 @@
+body {
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+	background-color:#F0F8FF;
+	font-size: 16px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+header img {
+	height: 100px;
+	margin-top: 20px;
+}
+ 
+#afbeelding1 {
+	width: 20%;
+	display: inline-block;
+	margin-right: 50px;
+	vertical-align: top;
+}
+
+#afbeelding2 {
+	width: 20%;
+	display: inline-block;
+	vertical-align: top;
+}
+
+#afbeelding3 {
+	width: 20%;
+	display: inline-block;
+	margin-left: 50px;
+	vertical-align: top;
+}
+
+#afbeeldingen {
+	margin-top: 30px;
+}
+
+.algemeneinfoP {
+	margin-right: 20%;
+	margin-left: 20%;
+}
+
+.hostingP {
+	margin-right: 20%;
+	margin-left: 20%;
+}
+
+button{
+	margin-left: 30px;
+}
+
+footer {
+	margin-top: 50px;
+	clear: both;
+}
+
+body {
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	background-color: #f0f8ff;
+}
+
+#blok {
+	display: inline-block;
+	height:500px;
+	width: 250px;
+	margin-right: 5px;
+}
+
+
+
+#blok1 {
+	background-color: white;
+	height: 170px;
+	width: 250px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#blok1 h1{
+	padding-top: 25px;
+}
+
+#blok2 {
+	margin-top: -20px;
+	background-color: #2e3a4b;
+	height:130px;
+	width: 250px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#blok2 h1 {
+	color: white;
+	padding-top: 40px;
+}
+
+#blok3 {
+	margin-top: -20px;
+	background-color: white;
+	height:50px;
+	width: 250px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#blok3 p {
+	padding-top: 17px;
+}
+
+#blok4 {
+	background-color: #f5f5f5;
+	height:50px;
+	width: 250px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#blok5 {
+	background-color: white;
+	height:50px;
+	width: 250px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#blok6 {
+	background-color: #f5f5f5;
+	height:50px;
+	width: 250px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+button {
+	margin-right: 30px;
+	margin-top: 20px;
+	font-size: 30px;
+}
+
+li img{
+	width: 30px;
+	margin-top: -10px;
+}
+
+.contact{
+	margin-left: 60%;
+	margin-top: 3%;
+}
+
+.contact h2{
+	margin-top: 1%;
+
+}
+
+iframe{
+	pointer-events: none;
+	margin-left: -400px;
+	margin-top: -400px;
+}
+
+.fotoben, .fotojorn, .fotowessel {
+	display: inline-block;
+}
+
+.fotoben{
+	margin-right: 200px;
+}
+
+.fotowessel{
+	margin-left: 230px;
+}
+
+
+
